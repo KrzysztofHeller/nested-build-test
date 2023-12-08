@@ -1,0 +1,3 @@
+[submodule "baserepo/cypress"]
+	path = baserepo/cypress
+	url = git@github.com:cypress-io/cypress.git
